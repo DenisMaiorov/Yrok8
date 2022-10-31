@@ -1,0 +1,15 @@
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\bin\Debug\net6.0\Zadanie62.exe
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\bin\Debug\net6.0\Zadanie62.deps.json
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\bin\Debug\net6.0\Zadanie62.runtimeconfig.json
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\bin\Debug\net6.0\Zadanie62.dll
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\bin\Debug\net6.0\Zadanie62.pdb
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.csproj.AssemblyReference.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.AssemblyInfoInputs.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.AssemblyInfo.cs
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.dll
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\refint\Zadanie62.dll
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.pdb
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\Zadanie62.genruntimeconfig.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Zadanie62\obj\Debug\net6.0\ref\Zadanie62.dll
