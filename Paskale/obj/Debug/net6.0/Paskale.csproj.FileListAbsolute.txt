@@ -1,0 +1,15 @@
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\bin\Debug\net6.0\Paskale.exe
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\bin\Debug\net6.0\Paskale.deps.json
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\bin\Debug\net6.0\Paskale.runtimeconfig.json
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\bin\Debug\net6.0\Paskale.dll
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\bin\Debug\net6.0\Paskale.pdb
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.csproj.AssemblyReference.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.AssemblyInfoInputs.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.AssemblyInfo.cs
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.dll
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\refint\Paskale.dll
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.pdb
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\Paskale.genruntimeconfig.cache
+E:\GeekBrains\Занятия\Знакомство с языками программирования\(семенары)\Урок 8. Как не нужно писать код. Часть 2\Yrok8\Paskale\obj\Debug\net6.0\ref\Paskale.dll
